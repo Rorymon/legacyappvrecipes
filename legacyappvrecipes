@@ -1,1 +1,51 @@
+App-V 4.x Recipes (Some Softgrid recipes included for the nostalgic)
 
+| Application Name  | App-V Recipe |
+|---|---|
+| Abra Suite  | http://answers.microsoft.com/en-us/windows/forum/windows_7-performance/entry-point/ed324518-00ed-4d1f-b400-951d28853c45  |
+| Adobe Acrobat Pro 9  | http://fbinotto.blogspot.com/2011/08/sequencing-adobe-acrobat-9-pro-recipe.html  |
+| Adobe Acrobat Reader 6  | http://www.tmurgent.com/GridPackages/Recipe_AdobeAcrobatReader6_OS2003_SG3.pdf  |
+| Adobe Acrobat Reader 9.3  | https://social.technet.microsoft.com/Forums/en-US/0f088234-2984-4c41-9508-a91b8c0d2674/adobe-reader-93?forum=prescriptiveguidance  |
+| AutoDesk Acrobat Pro X  | http://fbinotto.blogspot.co.uk/2012/05/sequencing-adobe-acrobat-x-pro-recipe.html  |
+| Adobe CS4  | http://appvgeek.blogspot.com/2010/07/sequencing-adobe-cs4.html  |
+| Adobe Illustrator CS3  | http://stealthpuppy.com/sequencing-adobe-illustrator-cs3/  |
+| Adobe InDesign CS3  | http://stealthpuppy.com/sequencing-adobe-indesign-cs3/  |
+| Adobe PhotoShop 7  | http://www.tmurgent.com/GridPackages/Recipe_AdobePhotoshop7_OS2003_SG3.pdf  |
+| Adobe PhotoShop CS3  | http://stealthpuppy.com/sequencing-adobe-photoshop-cs3/  |
+| Adobe PhotoShop CS4 | http://fbinotto.blogspot.com/2011/08/sequencing-adobe-photoshop-cs4-recipe.html  |
+| Adobe PhotoShop CS5  | https://forums.adobe.com/message/2893458  |
+| Adobe Photoshop 12.1 CS5.5  | https://kcmoboss.wordpress.com/2011/07/25/adobe-photoshop-12-1-cs5-5-app-v/ |
+| Adobe PhotoShop Elements 4.0 | https://social.technet.microsoft.com/Forums/en-US/28e60902-fb9b-4a1d-a0b5-efd060704abd/sequencing-adobe-photoshop-elements-40?forum=prescriptiveguidance   |
+| Adobe PhotoShop Elements 10  | http://www.applepie.se/adobe-photoshop-elements-10sequence  |
+| Adobe Reader  | http://www.adobe.com/devnet-docs/acrobatetk/tools/AdminGuide/appv.html  |
+| Adobe Reader 8.x  | https://social.technet.microsoft.com/Forums/en-US/26b64ddb-38ba-477b-9108-ceba51753978/adobe-reader-8x?forum=prescriptiveguidance  |
+| Adobe Reader 9.0   | http://www.itstuff.ca/2010/09/how-to-sequence-adobe-acrobat-reader-90.html  |
+| Adobe Reader 9.3  | http://www.ntsystems.it/post/AppVe28093Adobe-Reader-Sequencing-Receipe.aspx  |
+| Adobe Reader X  | http://stealthpuppy.com/virtualising-adobe-reader-x/  |
+| Advanced Systems Concepts ActiveBatch  | https://social.technet.microsoft.com/Forums/en-US/5ebaf3ff-0e5a-4952-9617-dbd52bd9bbbc/advanced-systems-concepts-activebatch?forum=prescriptiveguidance  |
+| Alcatel-Lucent 5620 Service Aware Manager 8.0 (SAM)  | https://social.technet.microsoft.com/Forums/en-US/41d02d1d-b4cd-49b2-ac87-0aabf67a707d/sequencing-alcatellucent-5620-service-aware-manager-sam?forum=prescriptiveguidance  |
+| Altova MissionKit  | http://www.bewi.at/?p=448  |
+| Apache Server with Perl  | https://social.technet.microsoft.com/Forums/en-US/aa1ce873-3e7c-4455-9c93-e0aaa86b8cbb/sequencing-apache-web-server-with-perl-scripts?forum=prescriptiveguidance   |
+| Apple iTunes 10.0  | http://stealthpuppy.com/sequencing-apple-itunes-10/  |
+| Apple QuickTime Player 7.x  | http://stealthpuppy.com/sequencing-apple-quicktime-7x/ |
+| Apple QuickTime Player 7.6.9  | http://d4rkcell.com/archives/207  |
+| Apple Safari 5  | http://stealthpuppy.com/virtualising-apple-safari-5/  |
+| ASAP Utilities  | http://social.technet.microsoft.com/Forums/en-US/prescriptiveguidance/thread/4256903e-65a9-4458-8e46-63a19c9a2cf0  |
+| ArcGis Desktop 9  | https://social.technet.microsoft.com/Forums/appvirtualization/en-US/9fc408ab-b7d3-41c5-a64d-88287e569239/sequencing-arcgis-desktop-9?forum=mdopappv  |
+| ArcGis Desktop 10.1  | https://social.technet.microsoft.com/Forums/en-US/9d21c677-e610-48de-ab5f-22ac2505e85f/arcgis-desktop-101?forum=prescriptiveguidance   |
+| Attachmate Extra 9.0  | https://social.technet.microsoft.com/Forums/en-US/b93f63b2-5c6d-49b8-a16e-afc71d1836e8/sequencing-attachmate-extra-90?forum=prescriptiveguidance  |
+| Attachmate Extra 9.1  | http://support.attachmate.com/techdocs/2266.html  |
+| Attachmate Extra X-treme 9.0  | http://appvgeek.blogspot.com/2010/06/sequencing-attachmate-extra-x-treme-90.html  |
+| Attachmate REflection 2008  | https://social.technet.microsoft.com/Forums/en-US/d91cea66-652d-4614-8065-1063cea0392b/sequencing-attachmate-reflection-2008?forum=prescriptiveguidance  |
+| Attachmate Reflection 2011  | https://social.technet.microsoft.com/Forums/appvirtualization/en-US/c2a0e330-a9d1-4e07-a168-33279a76e0bb/sequencing-attachmate-reflection-2011-with-microsoft-appv?forum=prescriptiveguidance   |
+| Attachmate Reflection 14.x  | https://social.technet.microsoft.com/Forums/en-US/b59212e9-6fc2-47b9-ae77-6b91ca6a920c/sequencing-attachmate-reflection-14x?forum=prescriptiveguidance   |
+| Attachmate Reflection for IBM 2007  | https://social.technet.microsoft.com/Forums/en-US/00a2f9d0-ba1a-458e-942b-fffde78554e7/sequencing-attachmate-reflection-for-ibm-2007?forum=prescriptiveguidance  |
+| AutoDesk AutoCAD 2000  | http://www.tmurgent.com/GridPackages/Recipe_AutodeskAutoCAD2002_OS2003_SP3.PDF   |
+| AutoDesk AutoCAD 2008  | http://winadmins.tistory.com/14   |
+| AutoDesk AutoCAD 2009  | https://digitalboys.wordpress.com/2009/11/16/sequencing-autodesk-autocad-2009   |
+| AutoDesk AutoCAD 2010 (Video)  | https://www.youtube.com/watch?gl=IL&amp;v=Y2Bjqpn-sNQ&amp;hl=en  |
+| AutoDesk AutoCAD 2012  | http://naevette.com.au/2013/01/23/sequencing-autodesk-autocad-2012-x64/  |
+| AutoDesk AutoCAD Civil 3D 2011  | http://www.appvirtguru.com/viewtopic.php?f=9&amp;t=3988  |
+| AutoDesk AutoCAD LT 2010  | https://social.technet.microsoft.com/Forums/en-US/4ec1cf2d-b4bd-44d1-8910-aa3b5ea32103/autocad-2010-lt-including-nondefault-component-design-review-2010?forum=prescriptiveguidance  |
+| AutoDesk AutoCAD LT 2012  | https://social.technet.microsoft.com/Forums/appvirtualization/en-US/e7fd6181-6bda-4343-a5e6-510444009866/seqencing-autodesk-autocad-lt-2012?forum=mdopappv   |
+| AutoDesk Design Review 2009  | https://social.technet.microsoft.com/Forums/appvirtualization/en-US/7d1203e7-7c38-4c13-aa92-6ae0e3c3b904/autodesk-design-review-2009-for-4142?forum=mdopappv  |
