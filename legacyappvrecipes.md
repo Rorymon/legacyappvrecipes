@@ -111,15 +111,15 @@ App-V 4.x Recipes (Some Softgrid recipes included for the nostalgic)
 | Microsoft Office 2000 | http://www.tmurgent.com/GridPackages/Recipe_MicrosoftOffice2000Pro_OS2003_SG3.pdf  |
 | Microsoft Office Excel 2003  | https://social.technet.microsoft.com/Forums/en-US/07c91e8d-23ce-4753-a288-067f6be6dba0/sequencing-microsoft-office-excel-2003?forum=prescriptiveguidance  |
 | Microsoft Office 2003  | https://blogs.technet.microsoft.com/uspartner_ts2team/2010/11/30/how-to-sequence-office-2003-with-app-v/  |
-| Microsoft Office 2007 MUIs | ttps://social.technet.microsoft.com/Forums/en-US/3e87dc5b-0aa5-497e-b1e6-408ff165eaf0/sequencing-muis-for-microsoft-office-2007?forum=prescriptiveguidance  |
+| Microsoft Office 2007 MUIs | https://social.technet.microsoft.com/Forums/en-US/3e87dc5b-0aa5-497e-b1e6-408ff165eaf0/sequencing-muis-for-microsoft-office-2007?forum=prescriptiveguidance  |
 | Microsoft Office 2010 (Official)  | https://support.microsoft.com/en-us/kb/2627274  |
 | Microsoft Office 2010 (Community Generated)  | http://fbinotto.blogspot.com/2011/08/sequencing-microsoft-office-2010-recipe.html  |
-| Microsoft Office 2010 (3 Part Series) | ttps://blogs.technet.microsoft.com/office_resource_kit/2011/06/15/sequencing-office-2010-for-app-v-part-1-considerations/  |
+| Microsoft Office 2010 (3 Part Series) | https://blogs.technet.microsoft.com/office_resource_kit/2011/06/15/sequencing-office-2010-for-app-v-part-1-considerations/  |
 | Patching a Virtualized Office 2010 | https://blogs.technet.microsoft.com/appv/2011/06/30/how-to-patch-virtualized-office-2010-sequenced-with-microsoft-app-v-4-6-sp1/  |
 | Microsoft Office 2010 and Lotus Notes 8.5  | http://fbinotto.blogspot.com/2011/08/office-2010-and-lotus-notes-85-both.html?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+FelipeBinottosBlog+%28Felipe+Binotto%27s+Blog%29  |
 | Microsoft Office 2010 and Dynamics CRM 2011  | https://blogs.technet.microsoft.com/appv/2012/01/12/sequencing-microsoft-office-2010-and-dynamics-crm-2011-using-app-v-4-6-sp1/  |
-| Microsoft PowerPivots | technet.microsoft.com/Forums/en-US/719dae94-98f0-4ba2-9659-8a1dd26926d9/sequencing-microsoft-powerpivots?forum=prescriptiveguidance  |
-| Microsoft Project 2000  | ttp://www.tmurgent.com/GridPackages/Recipe_MicrosoftProject2000_OS2003_SG3.PDF  |
+| Microsoft PowerPivots | https://technet.microsoft.com/Forums/en-US/719dae94-98f0-4ba2-9659-8a1dd26926d9/sequencing-microsoft-powerpivots?forum=prescriptiveguidance  |
+| Microsoft Project 2000  | http://www.tmurgent.com/GridPackages/Recipe_MicrosoftProject2000_OS2003_SG3.PDF  |
 | Microsoft Management Console | http://fbinotto.blogspot.com/2011/10/sequencing-microsoft-management-console.html |
 | Microsoft SCCM Console 2007 | http://scug.be/sccm/2010/02/08/app-v-sequencing-the-sccm-2007-console-howto/  |
 | Microsoft SCCM Administrator Console 2007 R3 | https://support.microsoft.com/en-us/kb/2685079 |
@@ -153,7 +153,7 @@ App-V 4.x Recipes (Some Softgrid recipes included for the nostalgic)
 | Notepad++ 5.6 | https://social.technet.microsoft.com/Forums/en-US/02d17c29-e345-43c0-986f-5b247e33bf8a/notepad?forum=prescriptiveguidance  |
 | OpenOffice | http://www.bewi.at/?p=352 |
 | OpenOffice 3.x | http://stealthpuppy.com/virtualising-openoffice-org-3-x/ |
-| Oracle Client 11G R2 | ttps://social.technet.microsoft.com/Forums/en-US/d4418150-948d-41b9-98ce-84a7deac0218/oracle-client-11g-r2?forum=prescriptiveguidance |
+| Oracle Client 11G R2 | https://social.technet.microsoft.com/Forums/en-US/d4418150-948d-41b9-98ce-84a7deac0218/oracle-client-11g-r2?forum=prescriptiveguidance |
 | Oracle Discoverer 3.1 | https://community.landesk.com/message/50653 |
 | Oracle Instant Client 10.2 | http://www.applepie.se/oracle-instant-client-10-2sequence  |
 | Paint.net 3.x | http://stealthpuppy.com/virtualising-paint-net-3-x/ |
@@ -161,11 +161,11 @@ App-V 4.x Recipes (Some Softgrid recipes included for the nostalgic)
 | Peachtree Premium Accounting 2006 ñ Accountantsí Edition | http://www.tmurgent.com/GridPackages/Recipe_PeachtreePremiumAccounting_2006_OS2003_SG411.pdf |
 | PetShop 4.0 | https://blogs.technet.microsoft.com/serverappv/2011/04/26/sequencing-petshop-4/ |
 | PetShop 4.0 (Video) | https://blogs.technet.microsoft.com/serverappv/2011/11/01/video-walkthrough-of-sequencing-and-deploying-pet-shop-4-0/ |
-| Prince of Persia | ttp://www.softgridblog.com/?p=164 |
+| Prince of Persia | http://www.softgridblog.com/?p=164 |
 | Pymol 11 | http://blogs.ethz.ch/jlaville/2009/01/18/issue-when-sequencing-pymol-11r1-for-app-v-45/  |
 | QRS nVivo 10 | http://techcenter.qsrinternational.com/desktop/nv10/nv10_microsoft_app_v_deployment.htm |
 | Quickbooks Enterprise 9.0 | https://social.technet.microsoft.com/Forums/en-US/9ccd5eb6-676f-469b-be8f-41530a21b1da/quickbooks-enterprise-90?forum=prescriptiveguidance |
-| Quickbooks 2011 | ttps://blogs.technet.microsoft.com/appv/2011/05/18/how-to-sequence-quickbooks-2011-using-microsoft-app-v-4-6/ |
+| Quickbooks 2011 | https://blogs.technet.microsoft.com/appv/2011/05/18/how-to-sequence-quickbooks-2011-using-microsoft-app-v-4-6/ |
 | Quickbooks 2012 (Video) | https://www.youtube.com/watch?v=YC4ysqU-QuE&amp;feature=youtu.be |
 | RealPlayer 14 | http://appvgeek.blogspot.com/2010/12/sequencing-realplayer-14.html |
 | Remedy Client 7 | https://social.technet.microsoft.com/Forums/en-US/5d97f546-ad85-4bd6-b009-ac14a97a65db/remedy-client-7?forum=prescriptiveguidance |
