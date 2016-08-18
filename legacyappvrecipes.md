@@ -107,6 +107,7 @@ App-V 4.x Recipes (Some Softgrid recipes included for the nostalgic)
 | Microsoft Dynamics NAV 2009 R2 Hotfixes  | https://msdn.microsoft.com/en-us/library/gg670184.aspx  |
 | Microsoft Exchange Management Console | http://zenshaze.com/wp/?p=296  |
 | Microsoft Lync Client  | http://www.sipstories.com/2012/04/13/how-to-virtualize-the-lync-client-with-microsoft-application-virtualization-app-v/  |
+| Microsoft MBAM Console | http://social.technet.microsoft.com/Forums/en-US/prescriptiveguidance/thread/26422161-e61a-4852-9fc2-5ae4f9fa851b |
 | Microsoft Money 2007  | https://social.technet.microsoft.com/Forums/en-US/d7b4aace-ca50-45ea-9689-a6dbed5da497/sequencing-microsoft-money-2007?forum=prescriptiveguidance |
 | Microsoft Office 2000 | http://www.tmurgent.com/GridPackages/Recipe_MicrosoftOffice2000Pro_OS2003_SG3.pdf  |
 | Microsoft Office Excel 2003  | https://social.technet.microsoft.com/Forums/en-US/07c91e8d-23ce-4753-a288-067f6be6dba0/sequencing-microsoft-office-excel-2003?forum=prescriptiveguidance  |
@@ -118,6 +119,9 @@ App-V 4.x Recipes (Some Softgrid recipes included for the nostalgic)
 | Patching a Virtualized Office 2010 | https://blogs.technet.microsoft.com/appv/2011/06/30/how-to-patch-virtualized-office-2010-sequenced-with-microsoft-app-v-4-6-sp1/  |
 | Microsoft Office 2010 and Lotus Notes 8.5  | http://fbinotto.blogspot.com/2011/08/office-2010-and-lotus-notes-85-both.html?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+FelipeBinottosBlog+%28Felipe+Binotto%27s+Blog%29  |
 | Microsoft Office 2010 and Dynamics CRM 2011  | https://blogs.technet.microsoft.com/appv/2012/01/12/sequencing-microsoft-office-2010-and-dynamics-crm-2011-using-app-v-4-6-sp1/  |
+| Microsoft Office Document Imaging  | http://social.technet.microsoft.com/Forums/en-US/prescriptiveguidance/thread/131f1e2d-ca64-49a5-8616-47740cc2b21e  |
+| Microsoft Office Word 2003  | http://social.technet.microsoft.com/Forums/en-US/prescriptiveguidance/thread/33fd2dcd-4c53-434d-8573-073b88073cbb |
+| Microsoft Orca 3.1  | http://social.technet.microsoft.com/Forums/en-US/prescriptiveguidance/thread/f30e31be-cbd0-470f-a975-c5980d794381 |
 | Microsoft PowerPivots | https://technet.microsoft.com/Forums/en-US/719dae94-98f0-4ba2-9659-8a1dd26926d9/sequencing-microsoft-powerpivots?forum=prescriptiveguidance  |
 | Microsoft Project 2000  | http://www.tmurgent.com/GridPackages/Recipe_MicrosoftProject2000_OS2003_SG3.PDF  |
 | Microsoft Management Console | http://fbinotto.blogspot.com/2011/10/sequencing-microsoft-management-console.html |
@@ -137,6 +141,7 @@ App-V 4.x Recipes (Some Softgrid recipes included for the nostalgic)
 | Microsoft Visual Studio 2010 | https://blogs.technet.microsoft.com/appv/2011/08/25/how-to-sequence-visual-studio-2010-in-microsoft-application-virtualization/  |
 | Microsoft Visual Studio 2010 (On Forum) | https://social.technet.microsoft.com/Forums/en-US/5eade6a1-44b1-41f9-8af2-0534ef5c8c71/how-to-sequence-visual-studio-2010-in-microsoft-application-virtualization?forum=prescriptiveguidance  |
 | Microsoft Visual Studio 2012 | https://social.technet.microsoft.com/Forums/en-US/7e93e525-31ed-43fc-8415-88a12766d2c2/how-to-sequence-visual-studio-2012-in-microsoft-application-virtualization-46-sp2?forum=prescriptiveguidance |
+| Microsoft Windows Deployment Services | http://social.technet.microsoft.com/Forums/en-US/prescriptiveguidance/thread/82a5b65d-838b-42d4-a3cc-212e84e207ba |
 | Microsoft Windows Live Essentials | https://social.technet.microsoft.com/Forums/en-US/7a8735e6-0994-4ab6-835b-4f2d1945e3a8/sequencing-windows-live-essentials?forum=prescriptiveguidance  |
 | Microsoft Windows Live Messenger 5.1 | http://www.applepie.se/sequence-windows-live-messenger-5-1 |
 | Mindjet Manager | http://packagingguide.blogspot.se/2011/12/app-v-for-mindjet-mindmanager.html  |
@@ -147,6 +152,7 @@ App-V 4.x Recipes (Some Softgrid recipes included for the nostalgic)
 | Mozilla Firefox 5 | http://stealthpuppy.com/sequencing-mozilla-firefox-5/  |
 | Mozilla Firefox 7 | http://stealthpuppy.com/sequencing-mozilla-firefox-7/ |
 | Mozilla Firefox 8  | http://stealthpuppy.com/sequencing-mozilla-firefox-8/ |
+| Mozilla Firefox for Citrix XenApp | http://rorymon.com/blog/index.php/app-v-sequencing-mozilla-firefox-for-xenapp/ |
 | Navisworks Freedom 2010 | http://www.applepie.se/sequencing-recipe-navisworks-freedom-2010  |
 | NAVFIT98A v29  | https://social.technet.microsoft.com/Forums/en-US/96e73403-88ea-41ac-9cb6-c17d5197ebed/navfit98a-v29?forum=prescriptiveguidance  |
 | Neovest 5.5 | http://appvgeek.blogspot.com/2010/08/sequencing-neovest-55.html |
